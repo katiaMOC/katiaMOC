@@ -29,6 +29,38 @@
     <span style="vertical-align: middle; margin-left: 5px;">Python</span>
   </button>
 </a>
+<a href="https://www.w3schools.com/sql/" style="text-decoration: none;">
+  <button style="background-color: #007bff; /* Blue */
+                 border: none;
+                 color: white;
+                 padding: 10px 24px;
+                 text-align: center;
+                 text-decoration: none;
+                 display: inline-block;
+                 font-size: 16px;
+                 margin: 4px 2px;
+                 cursor: pointer;
+                 border-radius: 12px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" style="vertical-align: middle; width: 40px; height: 40px;">
+    <span style="vertical-align: middle; margin-left: 5px;">SQL</span>
+  </button>
+</a>
+<a href="https://www.markdownguide.org/" style="text-decoration: none;">
+  <button style="background-color: #7952b3; /* Purple */
+                 border: none;
+                 color: white;
+                 padding: 10px 24px;
+                 text-align: center;
+                 text-decoration: none;
+                 display: inline-block;
+                 font-size: 16px;
+                 margin: 4px 2px;
+                 cursor: pointer;
+                 border-radius: 12px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/64px-Markdown-mark.svg.png" alt="Markdown" style="vertical-align: middle; width: 40px; height: 40px;">
+    <span style="vertical-align: middle; margin-left: 5px;">Markdown</span>
+  </button>
+</a>
 💻   Python R (Statistics) SQL Markdown
 📚   TensorFlow Keras Pandas Numpy Matplotlib Seaborn Scikitlearn FastAPI Streamlit
 🛢   MySQL BigQuery Postgres SQLite ApacheCassandra MongoDB
