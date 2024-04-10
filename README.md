@@ -1,4 +1,4 @@
-## Hola 🙌, Soy katia! 😚  
+## Hola 🙌, Soy katia! 🤗  
   
 
 <a href="https://github.com/https://github.com/katiaMOC" target="_blank">
@@ -20,7 +20,7 @@
 
 
 
-### Encantada de verlos 😚
+### Encantada de verlos 🤗
 Soy una apasionada analista de datos con una formación sólida en ingeniería de sistemas. Me gradué en la bootcamp Soy Henry, donde adquirí habilidades técnicas y prácticas en el campo de la ciencia de datos y el análisis de datos. 
 
 A lo largo de mi formación, he desarrollado competencias en la extracción, limpieza, análisis y visualización de datos, utilizando herramientas y lenguajes como Python, SQL, Pandas, NumPy, Matplotlib, Seaborn y más. Mi objetivo es aplicar mis conocimientos y habilidades para resolver problemas complejos y obtener insights valiosos a partir de los datos. ✨😎💪  
