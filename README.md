@@ -20,18 +20,11 @@
 
 
 
-### Glad to see you here!  
+### Acerca de mi!  
 Soy una apasionada analista de datos con una formación sólida en ingeniería de sistemas. Me gradué en la bootcamp Soy Henry, donde adquirí habilidades técnicas y prácticas en el campo de la ciencia de datos y el análisis de datos. 
 
 A lo largo de mi formación, he desarrollado competencias en la extracción, limpieza, análisis y visualización de datos, utilizando herramientas y lenguajes como Python, SQL, Pandas, NumPy, Matplotlib, Seaborn y más. Mi objetivo es aplicar mis conocimientos y habilidades para resolver problemas complejos y obtener insights valiosos a partir de los datos. ✨😎💪  
-  
-
 <br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 🔭 Actualmente me encuentro desarrollando proyectos de manera personal sobre temas random que pueden verlos aqui 👉 (https://github.com/katiaMOC?tab=repositories)  
   
 
@@ -42,21 +35,10 @@ A lo largo de mi formación, he desarrollado competencias en la extracción, lim
   
 
 - 📫 Cómo contactarme: katia.ordo.can1998@gmail.com 📩  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
 <br/>  
 
 
-## Languages and Tools  
+## Lenguajes y Herramientas    
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
