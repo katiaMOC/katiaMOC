@@ -13,7 +13,7 @@
 
 🛠  Habilidades técnicas
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/40px-Python-logo-notext.svg.png" alt="Python" style="vertical-align: middle; width: 40px; margin-right: 10px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" style="vertical-align: middle; width: 40px; margin-right: 10px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/64px-Markdown-mark.svg.png" alt="Markdown" style="vertical-align: middle; width: 40px; margin-right: 10px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/40px-Python-logo-notext.svg.png" alt="Python" style="vertical-align: middle; width: 40px; margin-right: 50px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" style="vertical-align: middle; width: 40px; margin-right: 50px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/64px-Markdown-mark.svg.png" alt="Markdown" style="vertical-align: middle; width: 40px; margin-right: 50px;">
 
 
 
