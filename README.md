@@ -30,8 +30,6 @@
     Python
   </button>
 </a>
-
-<!-- SQL -->
 <a href="https://www.w3schools.com/sql/" style="text-decoration: none;">
   <button style="background-color: #007bff; /* Blue */
                  border: none;
@@ -49,8 +47,6 @@
     SQL
   </button>
 </a>
-
-<!-- Markdown -->
 <a href="https://www.markdownguide.org/" style="text-decoration: none;">
   <button style="background-color: #7952b3; /* Purple */
                  border: none;
@@ -68,8 +64,6 @@
     Markdown
   </button>
 </a>
-
-<!-- Streamlit
 
 📚   TensorFlow Keras Pandas Numpy Matplotlib Seaborn Scikitlearn FastAPI Streamlit
 🛢   MySQL BigQuery Postgres SQLite ApacheCassandra MongoDB
