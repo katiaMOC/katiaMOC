@@ -27,8 +27,7 @@
                  cursor: pointer;
                  border-radius: 12px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/40px-Python-logo-notext.svg.png" alt="Python" style="vertical-align: middle;">
-    <br>
-    Python
+    <br>Python
   </button>
 </a>
 
@@ -46,8 +45,7 @@
                  cursor: pointer;
                  border-radius: 12px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" style="vertical-align: middle; width: 40px; height: 40px;">
-    <br>
-    SQL
+    <br>SQL
   </button>
 </a>
 
@@ -65,10 +63,11 @@
                  cursor: pointer;
                  border-radius: 12px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/64px-Markdown-mark.svg.png" alt="Markdown" style="vertical-align: middle; width: 40px; height: 40px;">
-    <br>
-    Markdown
+    <br>Markdown
   </button>
 </a>
+
+<br> <!-- Salto de línea para separar las filas -->
 
 <!-- Pandas -->
 <a href="#" style="text-decoration: none;">
@@ -84,8 +83,7 @@
                  cursor: pointer;
                  border-radius: 12px;">
     <img src="URL_DEL_LOGO_DE_PANDAS" alt="Pandas" style="vertical-align: middle; width: 40px; height: 40px;">
-    <br>
-    Pandas
+    <br>Pandas
   </button>
 </a>
 
@@ -103,8 +101,7 @@
                  cursor: pointer;
                  border-radius: 12px;">
     <img src="URL_DEL_LOGO_DE_NUMPY" alt="Numpy" style="vertical-align: middle; width: 40px; height: 40px;">
-    <br>
-    Numpy
+    <br>Numpy
   </button>
 </a>
 
@@ -122,8 +119,7 @@
                  cursor: pointer;
                  border-radius: 12px;">
     <img src="URL_DEL_LOGO_DE_MATPLOTLIB" alt="Matplotlib" style="vertical-align: middle; width: 40px; height: 40px;">
-    <br>
-    Matplotlib
+    <br>Matplotlib
   </button>
 </a>
 
@@ -141,8 +137,7 @@
                  cursor: pointer;
                  border-radius: 12px;">
     <img src="URL_DEL_LOGO_DE_SEABORN" alt="Seaborn" style="vertical-align: middle; width: 40px; height: 40px;">
-    <br>
-    Seaborn
+    <br>Seaborn
   </button>
 </a>
 
@@ -160,8 +155,7 @@
                  cursor: pointer;
                  border-radius: 12px;">
     <img src="URL_DEL_LOGO_DE_SCIKITLEARN" alt="Scikit-learn" style="vertical-align: middle; width: 40px; height: 40px;">
-    <br>
-    Scikit-learn
+    <br>Scikit-learn
   </button>
 </a>
 
@@ -179,8 +173,7 @@
                  cursor: pointer;
                  border-radius: 12px;">
     <img src="URL_DEL_LOGO_DE_FASTAPI" alt="FastAPI" style="vertical-align: middle; width: 40px; height: 40px;">
-    <br>
-    FastAPI
+    <br>FastAPI
   </button>
 </a>
 
