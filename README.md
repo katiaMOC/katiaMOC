@@ -12,58 +12,70 @@
 - ⚡ Dato curioso: Acabo de graduarme de la bootcamp soy henry en data science.
 
 🛠  Habilidades técnicas
-<!-- Python -->
-<a href="https://www.python.org/" style="text-decoration: none;">
-  <button style="background-color: #4CAF50; /* Green */
-                 border: none;
-                 color: white;
-                 padding: 10px 24px;
-                 text-align: center;
-                 text-decoration: none;
-                 display: inline-block;
-                 font-size: 16px;
-                 margin: 4px 2px;
-                 cursor: pointer;
-                 border-radius: 12px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/40px-Python-logo-notext.svg.png" alt="Python" style="vertical-align: middle;">
-    <br>
-    Python
-  </button>
-</a>
-<a href="https://www.w3schools.com/sql/" style="text-decoration: none;">
-  <button style="background-color: #007bff; /* Blue */
-                 border: none;
-                 color: white;
-                 padding: 10px 24px;
-                 text-align: center;
-                 text-decoration: none;
-                 display: inline-block;
-                 font-size: 16px;
-                 margin: 4px 2px;
-                 cursor: pointer;
-                 border-radius: 12px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" style="vertical-align: middle; width: 40px; height: 40px;">
-    <br>
-    SQL
-  </button>
-</a>
-<a href="https://www.markdownguide.org/" style="text-decoration: none;">
-  <button style="background-color: #7952b3; /* Purple */
-                 border: none;
-                 color: white;
-                 padding: 10px 24px;
-                 text-align: center;
-                 text-decoration: none;
-                 display: inline-block;
-                 font-size: 16px;
-                 margin: 4px 2px;
-                 cursor: pointer;
-                 border-radius: 12px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/64px-Markdown-mark.svg.png" alt="Markdown" style="vertical-align: middle; width: 40px; height: 40px;">
-    <br>
-    Markdown
-  </button>
-</a>
+
+<div style="display: flex; justify-content: center;">
+
+  <!-- Python -->
+  <div style="margin-right: 10px;">
+    <a href="https://www.python.org/" style="text-decoration: none;">
+      <button style="background-color: #4CAF50; /* Green */
+                     border: none;
+                     color: white;
+                     padding: 10px 24px;
+                     text-align: center;
+                     text-decoration: none;
+                     display: inline-block;
+                     font-size: 16px;
+                     margin: 4px 2px;
+                     cursor: pointer;
+                     border-radius: 12px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/40px-Python-logo-notext.svg.png" alt="Python" style="vertical-align: middle;">
+        <br>Python
+      </button>
+    </a>
+  </div>
+
+  <!-- SQL -->
+  <div style="margin-right: 10px;">
+    <a href="https://www.w3schools.com/sql/" style="text-decoration: none;">
+      <button style="background-color: #007bff; /* Blue */
+                     border: none;
+                     color: white;
+                     padding: 10px 24px;
+                     text-align: center;
+                     text-decoration: none;
+                     display: inline-block;
+                     font-size: 16px;
+                     margin: 4px 2px;
+                     cursor: pointer;
+                     border-radius: 12px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" style="vertical-align: middle; width: 40px; height: 40px;">
+        <br>SQL
+      </button>
+    </a>
+  </div>
+
+  <!-- Markdown -->
+  <div>
+    <a href="https://www.markdownguide.org/" style="text-decoration: none;">
+      <button style="background-color: #7952b3; /* Purple */
+                     border: none;
+                     color: white;
+                     padding: 10px 24px;
+                     text-align: center;
+                     text-decoration: none;
+                     display: inline-block;
+                     font-size: 16px;
+                     margin: 4px 2px;
+                     cursor: pointer;
+                     border-radius: 12px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/64px-Markdown-mark.svg.png" alt="Markdown" style="vertical-align: middle; width: 40px; height: 40px;">
+        <br>Markdown
+      </button>
+    </a>
+  </div>
+
+</div>
 
 📚   TensorFlow Keras Pandas Numpy Matplotlib Seaborn Scikitlearn FastAPI Streamlit
 🛢   MySQL BigQuery Postgres SQLite ApacheCassandra MongoDB
