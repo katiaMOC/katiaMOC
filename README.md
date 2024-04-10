@@ -13,6 +13,7 @@
 
 🛠  Habilidades técnicas
 
+<!-- Python -->
 <a href="https://www.python.org/" style="text-decoration: none;">
   <button style="background-color: #4CAF50; /* Green */
                  border: none;
@@ -26,9 +27,12 @@
                  cursor: pointer;
                  border-radius: 12px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/40px-Python-logo-notext.svg.png" alt="Python" style="vertical-align: middle;">
-    <span style="vertical-align: middle; margin-left: 5px;">Python</span>
+    <br>
+    Python
   </button>
 </a>
+
+<!-- SQL -->
 <a href="https://www.w3schools.com/sql/" style="text-decoration: none;">
   <button style="background-color: #007bff; /* Blue */
                  border: none;
@@ -42,9 +46,12 @@
                  cursor: pointer;
                  border-radius: 12px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" style="vertical-align: middle; width: 40px; height: 40px;">
-    <span style="vertical-align: middle; margin-left: 5px;">SQL</span>
+    <br>
+    SQL
   </button>
 </a>
+
+<!-- Markdown -->
 <a href="https://www.markdownguide.org/" style="text-decoration: none;">
   <button style="background-color: #7952b3; /* Purple */
                  border: none;
@@ -58,10 +65,127 @@
                  cursor: pointer;
                  border-radius: 12px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/64px-Markdown-mark.svg.png" alt="Markdown" style="vertical-align: middle; width: 40px; height: 40px;">
-    <span style="vertical-align: middle; margin-left: 5px;">Markdown</span>
+    <br>
+    Markdown
   </button>
 </a>
-💻   Python R (Statistics) SQL Markdown
+
+<!-- Pandas -->
+<a href="#" style="text-decoration: none;">
+  <button style="background-color: #5C95E0; /* Blue */
+                 border: none;
+                 color: white;
+                 padding: 10px 24px;
+                 text-align: center;
+                 text-decoration: none;
+                 display: inline-block;
+                 font-size: 16px;
+                 margin: 4px 2px;
+                 cursor: pointer;
+                 border-radius: 12px;">
+    <img src="URL_DEL_LOGO_DE_PANDAS" alt="Pandas" style="vertical-align: middle; width: 40px; height: 40px;">
+    <br>
+    Pandas
+  </button>
+</a>
+
+<!-- Numpy -->
+<a href="#" style="text-decoration: none;">
+  <button style="background-color: #F9C518; /* Yellow */
+                 border: none;
+                 color: white;
+                 padding: 10px 24px;
+                 text-align: center;
+                 text-decoration: none;
+                 display: inline-block;
+                 font-size: 16px;
+                 margin: 4px 2px;
+                 cursor: pointer;
+                 border-radius: 12px;">
+    <img src="URL_DEL_LOGO_DE_NUMPY" alt="Numpy" style="vertical-align: middle; width: 40px; height: 40px;">
+    <br>
+    Numpy
+  </button>
+</a>
+
+<!-- Matplotlib -->
+<a href="#" style="text-decoration: none;">
+  <button style="background-color: #F7955E; /* Orange */
+                 border: none;
+                 color: white;
+                 padding: 10px 24px;
+                 text-align: center;
+                 text-decoration: none;
+                 display: inline-block;
+                 font-size: 16px;
+                 margin: 4px 2px;
+                 cursor: pointer;
+                 border-radius: 12px;">
+    <img src="URL_DEL_LOGO_DE_MATPLOTLIB" alt="Matplotlib" style="vertical-align: middle; width: 40px; height: 40px;">
+    <br>
+    Matplotlib
+  </button>
+</a>
+
+<!-- Seaborn -->
+<a href="#" style="text-decoration: none;">
+  <button style="background-color: #4EAE53; /* Green */
+                 border: none;
+                 color: white;
+                 padding: 10px 24px;
+                 text-align: center;
+                 text-decoration: none;
+                 display: inline-block;
+                 font-size: 16px;
+                 margin: 4px 2px;
+                 cursor: pointer;
+                 border-radius: 12px;">
+    <img src="URL_DEL_LOGO_DE_SEABORN" alt="Seaborn" style="vertical-align: middle; width: 40px; height: 40px;">
+    <br>
+    Seaborn
+  </button>
+</a>
+
+<!-- Scikit-learn -->
+<a href="#" style="text-decoration: none;">
+  <button style="background-color: #F7A91E; /* Yellow */
+                 border: none;
+                 color: white;
+                 padding: 10px 24px;
+                 text-align: center;
+                 text-decoration: none;
+                 display: inline-block;
+                 font-size: 16px;
+                 margin: 4px 2px;
+                 cursor: pointer;
+                 border-radius: 12px;">
+    <img src="URL_DEL_LOGO_DE_SCIKITLEARN" alt="Scikit-learn" style="vertical-align: middle; width: 40px; height: 40px;">
+    <br>
+    Scikit-learn
+  </button>
+</a>
+
+<!-- FastAPI -->
+<a href="#" style="text-decoration: none;">
+  <button style="background-color: #0B82E7; /* Blue */
+                 border: none;
+                 color: white;
+                 padding: 10px 24px;
+                 text-align: center;
+                 text-decoration: none;
+                 display: inline-block;
+                 font-size: 16px;
+                 margin: 4px 2px;
+                 cursor: pointer;
+                 border-radius: 12px;">
+    <img src="URL_DEL_LOGO_DE_FASTAPI" alt="FastAPI" style="vertical-align: middle; width: 40px; height: 40px;">
+    <br>
+    FastAPI
+  </button>
+</a>
+
+<!-- Streamlit
+
 📚   TensorFlow Keras Pandas Numpy Matplotlib Seaborn Scikitlearn FastAPI Streamlit
 🛢   MySQL BigQuery Postgres SQLite ApacheCassandra MongoDB
 🔧   Docker Apache Hadoop Apache Hive Apache Spark
