@@ -13,20 +13,10 @@
 
 🛠  Habilidades técnicas
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/40px-Python-logo-notext.svg.png" alt="Python" style="vertical-align: middle; width: 40px; margin-right: 50px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" style="vertical-align: middle; width: 40px; margin-right: 50px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/64px-Markdown-mark.svg.png" alt="Markdown" style="vertical-align: middle; width: 40px; margin-right: 50px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/40px-Python-logo-notext.svg.png" alt="Python" style="vertical-align: middle; width: 40px; margin-right: 200px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" style="vertical-align: middle; width: 40px; margin-right: 200px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/64px-Markdown-mark.svg.png" alt="Markdown" style="vertical-align: middle; width: 40px; margin-right: 200px;">
 
 
 
-
-📚   TensorFlow Keras Pandas Numpy Matplotlib Seaborn Scikitlearn FastAPI Streamlit
-🛢   MySQL BigQuery Postgres SQLite ApacheCassandra MongoDB
-🔧   Docker Apache Hadoop Apache Hive Apache Spark
-📊   Tableau Power BI
-⚙️   Git DVC GitHub GitHub Actions Jupyter colab Visual Studio Code RStudio
-☁️   Render Google Cloud
-
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/240px-Python-logo-notext.svg.png) Python
-- 
 
 ## Proyectos destacados
 
