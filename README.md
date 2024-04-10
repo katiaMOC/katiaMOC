@@ -11,8 +11,14 @@
 - 😄 Pronombres: ella.
 - ⚡ Dato curioso: Acabo de graduarme de la bootcamp soy henry en data science.
 
-## Tecnologías que manejo
 🛠  Habilidades técnicas
+
+<div style="border: 1px solid #ccc; padding: 10px; display: inline-block;">
+  <a href="https://www.python.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/40px-Python-logo-notext.svg.png" alt="Python" style="vertical-align: middle;">
+    <span style="vertical-align: middle; margin-left: 5px;">Python</span>
+  </a>
+</div>
 💻   Python R (Statistics) SQL Markdown
 📚   TensorFlow Keras Pandas Numpy Matplotlib Seaborn Scikitlearn FastAPI Streamlit
 🛢   MySQL BigQuery Postgres SQLite ApacheCassandra MongoDB
